@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nastya 
-- 👀 I’m interested in backend development and computational linguistics
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in computational linguistics and NLP
 - 📫 You can reach me via Telegram @anastasia_dobysh
 
 <!---
