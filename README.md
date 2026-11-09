@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nastya 
 - 👀 I’m interested in computational linguistics and NLP
-- 📫 You can reach me via Telegram @anastasia_dobysh
+- 📫 You can reach me via Telegram @anastasiia_dobysh
 
 <!---
 ANASTASIA-DOBYSH/ANASTASIA-DOBYSH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
